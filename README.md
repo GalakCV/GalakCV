@@ -1,4 +1,4 @@
 - 👋 Olá, sou @GalakCV
 - 👀 Me interesso em Cybersecurity, com foco em Pentest em Redes e WEB
-- 🌱 No momento estou focando em Programação em Python | Programação em C | Pentest em Redes
-
+- 🌱 No momento estou focado em Programação em Python | Programação em C | Pentest em Redes
+- ✏️ Tenho conhecimento em JS, HTML, CSS, Bash
