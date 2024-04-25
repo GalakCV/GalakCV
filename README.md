@@ -1,4 +1,3 @@
 - 👋 Olá, sou @Galak
-- 👀 Cybersecurity, Pentest em Redes e WEB
-- 🌱 Foco em Programação em Python | Programação em C | Pentest em Redes
-- ✏️ Python, JS, HTML, CSS, Bash
+- 👀 Cybersecurity | Pentest 
+- ✏️ Python, JS, ShellScript && HTML + CSS 
