@@ -1,7 +1,7 @@
 ## About Me 👦
 
-Hi there! My name is Guilherme and I'm 23 years old.
-Actually working with Technical Support in a intern position.
+Hi there! My name is Guilherme and I'm 23 years old <p>
+Actually working with Technical Support in a intern position.<p>
 Focused on web exploitation and application security, with a background in a Django development and good practices.
 
 ## Skills 💻
