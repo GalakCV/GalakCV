@@ -1,5 +1,5 @@
 ## About Me 👦
-Focused on web exploitation and application security, with a background in a Django development and good practices.
+Focused on web exploitation and application security.
 
 ## Skills 💻
 
